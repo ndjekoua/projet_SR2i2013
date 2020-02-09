@@ -5,8 +5,8 @@
 
 Une Rainbow Table est deja créée avec un nombre de P=1000 fonctions de réduction. Son utilisation est donc instantanée. Cependant l'application permet de crée une Rainbow Table personnalisée à partir d'une base de donnée de mot de passe à l'aide de ./create_rainbowTable.
 
-La Rainbow Table se trouve dans le dossier data_base sous le nom de mot_passe_hash.txt. Github n’acceptant pas les fichiers de plus de 1 MB, une version dégradée y a été uploader.
-La version de 1Gb de la rainbow table se trouve à l’adresse suivante :
+La Rainbow Table se trouve dans le dossier data_base sous le nom de mot_passe_hash.txt. Github n’acceptant pas les fichiers de plus de 100 MB, une version dégradée y a été uploader.
+Une version un peu plus pesante de la rainbow table se trouve à l'adresse suivante :
 https://drive.google.com/drive/folders/10AOqjRBmBlhTJ6vNcAETgfeUX-TlDzZC
 
 
